@@ -8,9 +8,11 @@ R Shiny was chosen to develop the visualization platform because of its abundant
 
 ## Features
 1. Visualization: The user is able to visualize the spatial data of the intersections and its surroundings. These interactions are quantified through the Potential Pedestrian Index and Pedestrian Deficiency Index by providing a score for the user to rank the locations. The indexes are plotted in a donut chart. The predicted and (if provided) actual AADT values are plotted for each intersection.
+
 ![](surrey_map.gif)
 
 2. Score Matrix: The user is able to explore the data structure of each variable in the respective index and adjust the scoring matrix, which is provided in a stepwise function. Once the user saves the new scoring matrix, a csv file will be downloaded and the score is globally reflected in the app.
+
 ![](surrey_scoring.gif)
 
 3. Ranking locations: According to the scores, the locations are ranked by percentile.
