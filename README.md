@@ -21,4 +21,6 @@ R Shiny was chosen to develop the visualization platform because of its abundant
 The data used for this project was City-owned data, including open data available on their website (https://data.surrey.ca), Insurance Corporation of British Columbia (ICBC) data, and Translink data on stop usage and locations. Since some of the preprocessed data are confidential, the raw data are not available in this repository. Visit [the app](https://alinac20.shinyapps.io/SurreyCrosswalk/) on my shinyapps.io page.
 
 ## Support
-More detailed information and a description of our models can be found in the [Crosswalk Project report and recorded presentation](https://dsi.ubc.ca/data-science-social-good).
+More detailed information and a description of our models can be found in the [Crosswalk Project report and recorded presentation](https://dsi.ubc.ca/data-science-social-good-2020).
+
+The demo of the app is recorded and is live in this [youtube video](https://youtu.be/NiN1dQ0CfgM?t=1528)
