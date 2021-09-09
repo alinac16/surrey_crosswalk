@@ -24,3 +24,4 @@ The data used for this project was City-owned data, including open data availabl
 More detailed information and a description of our models can be found in the [Crosswalk Project report and recorded presentation](https://dsi.ubc.ca/data-science-social-good-2020).
 
 The demo of the app is recorded and is live in this [youtube video](https://youtu.be/NiN1dQ0CfgM?t=1528)
+The full report can be [downloaded here](https://dsi.ubc.ca/sites/default/files/DSSG_2020_crosswalk_final_report_0.pdf)
